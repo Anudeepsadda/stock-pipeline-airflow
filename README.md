@@ -22,3 +22,6 @@ This project builds a Dockerized pipeline using Apache Airflow to fetch daily st
 3. Run:
    ```bash
    docker-compose up --build
+
+# Implementation_Screenshots
+[Screenshots for Proof](https://drive.google.com/drive/folders/1uy2_dCxb5EFzFWWVpDhXOySvxqTtNurD?usp=sharing)
