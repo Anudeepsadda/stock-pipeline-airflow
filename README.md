@@ -16,9 +16,9 @@ This project builds a Dockerized pipeline using Apache Airflow to fetch daily st
    - POSTGRES_PASSWORD=airflow
    - POSTGRES_DB=stocks
    - POSTGRES_PORT=5432
-   - STOCK_API_KEY=your_api_key_here
+   - STOCK_API_KEY=D764NO97Z25ZY2LX
    - AIRFLOW__CORE__FERNET_KEY=nvW64XP7LfWKO3r6sJTHy4AJm7rCdv5u_GZcdnBee7Y=
-   - AIRFLOW__WEBSERVER__SECRET_KEY=myverysecretkey123
+   - AIRFLOW__WEBSERVER__SECRET_KEY=4ITE6QLQ3GC4PPOU
 3. Run:
    ```bash
    docker-compose up --build
